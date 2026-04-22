@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/senuk/Desktop/Git/portfolio-website/app/**)",
+      "Read(//c/Users/senuk/Desktop/Git/portfolio-website/public/**)"
+    ]
+  }
+}
